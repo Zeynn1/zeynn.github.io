@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zeynn. on </title>
+    <link>https://zeynn1.github.io/zeynn.github.io/</link>
+    <description>Recent content in Zeynn. on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-eu</language>
+    <copyright>Copyright © 2023, Zeynn, all rights reserved.</copyright>
+    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zeynn1.github.io/zeynn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://zeynn1.github.io/zeynn.github.io/about/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeynn1.github.io/zeynn.github.io/about/</guid>
+      
+      
+      
+      
+      
+      
+      
+      <description>
+          <![CDATA[ 
+          
+          <p>20 yo { #web, #re, #pwn, #crypto, ret2school ctfer }</p>
+
+          
+          
+          
+          
+          
+          ]]>
+      </description>
+
+
+    </item>
+    
+  </channel>
+</rss>
