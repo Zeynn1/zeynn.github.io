@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on </title>
+    <link>https://zeynn1.github.io/zeynn.github.io/blog/</link>
+    <description>Recent content in Blog on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-eu</language>
+    <copyright>Copyright © 2023, Zeynn, all rights reserved.</copyright>
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zeynn1.github.io/zeynn.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MidnightSun CTF - frank</title>
+      <link>https://zeynn1.github.io/zeynn.github.io/blog/cryptofrank/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeynn1.github.io/zeynn.github.io/blog/cryptofrank/</guid>
+      <description>Link MidnightSun CTF - frank Hello world,
+This writeup is about Midnight Sun CTF [frank] challenge on how to recover a full RSA private key, when half of it is erased.
+Challenge therefore requires recovering the entire RSA key from this image :
+Link Get the part of the private key visible: The first step of the challenge is to recover the visible part, to do this I quickly created a small OCR script with the pytesseract module in Python, to facilitate the recovery task.</description>
+    </item>
+    
+  </channel>
+</rss>
